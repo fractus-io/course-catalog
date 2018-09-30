@@ -2,7 +2,7 @@
 
 ### Training Courses <br>
 #### October 2018<br><br>
-##### Fractus IT d.o.o<br>[fractus.io](https://fractus.io)<br>[info@fractus.io](mailto:info@fractus.io)<br>
+##### Fractus IT d.o.o<br>[fractus.io](https://fractus.io)<br>
 
 ---
 
@@ -50,5 +50,10 @@
 - Hands on Deep Learning with Keras
 - Artificial Intelligence for Business Leaders
 
+---
 
+For details, please contact us at:<br>
+[info@fractus.io](mailto:info@fractus.io)<br>
+
+[info@fractus.io](mailto:info@fractus.io)<br>
 
