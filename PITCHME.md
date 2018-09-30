@@ -10,7 +10,7 @@
 
 #### Course Categories<br>
 - Programming
-- Software Desihg & Arhitecture    
+- Software Arhitecture and Design 
 - Frameworks    
 - Artificial Intelligence
     
