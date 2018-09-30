@@ -14,5 +14,3 @@
 - Artificial Intelligence
     
 ---
-
-
