@@ -5,7 +5,6 @@
 ##### Fractus IT d.o.o<br>[fractus.io](https://fractus.io)<br>[info@fractus.io](mailto:info@fractus.io)<br>
 
 ---
-
 ---?color=#222222
 
 #### Course Categories<br>
