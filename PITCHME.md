@@ -6,16 +6,19 @@
 
 ---
 
+---?color=#222222
 
-### Training Courses
-October 2018
+### Overview <br>
 
-
-
-### Agenda
-
-* Module 1: Introduction to OSGi
-
+#### Categories
+- Programming
+    - Modular content is possible, along with custom content types
+- Software Desihg & Arhitecture
+    - Supports an efficient edit and publish workflow (esp. Git-based)
+- Frameworks
+    - Powerful Blueprints supports Admin Panel customizations
+- Artificial Intelligence
+    - Powerful Blueprints supports Admin Panel customizations
 
 ---
 
