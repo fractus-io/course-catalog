@@ -8,18 +8,12 @@
 
 ---?color=#222222
 
-### Overview <br>
-
-#### Categories
+#### Course Categories<br>
 - Programming
-    - Modular content is possible, along with custom content types
-- Software Desihg & Arhitecture
-    - Supports an efficient edit and publish workflow (esp. Git-based)
-- Frameworks
-    - Powerful Blueprints supports Admin Panel customizations
+- Software Desihg & Arhitecture    
+- Frameworks    
 - Artificial Intelligence
-    - Powerful Blueprints supports Admin Panel customizations
-
+    
 ---
 
 
