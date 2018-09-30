@@ -55,5 +55,5 @@
 For details, please contact us at:<br>
 [info@fractus.io](mailto:info@fractus.io)<br>
 
-[info@fractus.io](mailto:info@fractus.io)<br>
+
 
