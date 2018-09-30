@@ -39,7 +39,7 @@
 ---
 
 #### Artificial Intelligence<br>
-- Hands on Deep Learning with Keras(under development)
+- Hands on Deep Learning with Keras
 - Artificial Intelligence for Business Leaders
 
 
