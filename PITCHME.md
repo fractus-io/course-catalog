@@ -6,6 +6,14 @@
 
 ---
 
+#### General Informations<br>
+- Each course contains theoreatical and practical part
+- Each course can be tailored for customer needs
+- Courses are delivered online or physically  
+- Instructors are experienced IT experts
+    
+---
+
 #### Course Categories<br>
 - Programming
 - Software Arhitecture and Design 
