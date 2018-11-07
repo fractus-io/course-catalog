@@ -47,7 +47,7 @@
 ---
 
 #### Artificial Intelligence<br>
-- Pythin Data Science
+- Python Data Science
 - Hands on Deep Learning with Keras
 - Artificial Intelligence for Business Leaders
 
