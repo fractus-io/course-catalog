@@ -33,7 +33,7 @@
 - Object Oriented Design
 - Design Patterns
 - Introduction to Software Architecture
-- Microservice Archicture
+- Microservice Architecture
 - Test Driven Development
     
 ---
