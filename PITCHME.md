@@ -49,7 +49,7 @@
 #### Artificial Intelligence<br>
 - NumPy
 - Matplotlib
-- Linear AlgebraPython
+- Linear Algebra
 - Neural Networks Basics
 - Python Data Science
 - Hands on Deep Learning with Keras
