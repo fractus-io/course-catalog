@@ -49,11 +49,11 @@ html:-moz-full-screen-ancestor {
 }
 
 .reveal a {
-    color: #e7ad52;
+    color:  #ec649b;
 }
 
 .reveal a:hover {
-    color: #f3d7ac;
+    color:  #e50b6c;
 }
 
 .hljs {
