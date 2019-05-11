@@ -7,16 +7,16 @@
 ---
 
 #### General Informations<br>
-- Each course contains theoreatical and practical part
+- Each course contains theoretical and practical part
 - Each course can be tailored for customer needs
-- Courses are delivered online or physically  
+- Courses are delivered on-line or physically  
 - Instructors are experienced IT experts
     
 ---
 
 #### Course Categories<br>
 - Programming
-- Software Arhitecture and Design 
+- Software Architecture and Design 
 - Frameworks 
 - Artificial Intelligence
     
@@ -29,7 +29,7 @@
     
 ---
 
-#### Software Arhitecture and Design<br>
+#### Software Architecture and Design<br>
 - Object Oriented Design
 - Design Patterns
 - Introduction to Software Architecture
@@ -47,6 +47,10 @@
 ---
 
 #### Artificial Intelligence<br>
+- NumPy
+- Matplotlib
+- Linear AlgebraPython
+- Neural Networks Basics
 - Python Data Science
 - Hands on Deep Learning with Keras
 - Artificial Intelligence for Business Leaders
